@@ -1,0 +1,9 @@
+Package: perceptronEntrena
+Type: Package
+Title: Entrenar un Perceptron Simple
+Version: 0.1.0
+Author: Edwin Mejia
+Maintainer: Edwin Mejia <su_correo@ejemplo.com>
+Description: Funcion para entrenar un perceptron simple.
+License: GPL-3
+Encoding: UTF-8
